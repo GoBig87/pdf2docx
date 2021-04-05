@@ -1,3 +1,3 @@
-PyMuPDF==1.9.2
+git+https://github.com/ArtifexSoftware/mupdf.git@v1.9.2
 python-docx>=0.8.10
 fire>=0.3.0
